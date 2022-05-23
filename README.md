@@ -156,6 +156,9 @@ ohmmetro mostradas.
 
 La cuarta bombilla del ledt está abierta.
 
+4. RESOLUCCIÓN DE PROBLEMAS CAPÍTULO 4
+
+
 
 
 
