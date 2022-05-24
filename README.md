@@ -158,17 +158,85 @@ La cuarta bombilla del ledt está abierta.
 
 4. RESOLUCCIÓN DE PROBLEMAS CAPÍTULO 4
 
+SECCIÓN 4–1 Energía y potencia
+
+2. Demuestre que hay 3.6x10^6 joules en un kilowatt-hora.
+
+
+4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+
+6. Convierta las siguientes cantidades en kilowatts:
+
+
+8. Convierta las siguientes cantidades en miliwatts:
+
+
+10. Convierta las siguientes cantidades en watts:
+
+
+12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos
+kilowatts-hora de energía consume?
+
+
+14. Convierta 5x10^6 watts-minutos en kWh.
 
 
 
+16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25J?
 
 
+SECCIÓN 4–2 Potencia en un circuito eléctrico
+
+18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
 
 
+22. Si entre los extremos de un resistor de 680Ω existen 60 V, ¿cuál es la potencia?
 
 
+24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
 
 
+SECCIÓN 4–3 Clasificaciones de potencia en resistores
+
+26. Un resistor de 6.8 kÆ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor
+de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga
+que dispone de resistores en todas las clasificaciones de potencia estándar.
+
+
+SECCIÓN 4–4 Conversión de energía y caída de voltaje en una resistencia
+
+28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+
+
+SECCIÓN 4–5 Fuentes de potencia
+
+30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas
+en una carga de 10Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+
+
+32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad
+en amperes-hora?
+
+
+34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+
+
+36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de
+entrada es de 5 W?
+
+
+5. VÍDEO
+
+6. CONCLUSIONES 
+
+- Aplicando la Ley de Ohm y reconociendo la relación que existe en las magnitudes de corriente, voltaje y resistencia se tiene que, las fórmulas son los siguientes: voltaje es igual a la resistencia por la intensidad de corriente, la resistencia es igual al voltaje sobre la intensidad de corriente y por último la intensidad de corriente es igual a tensión sobre resistencia del circuito.
+-  Gracias a la implementación de la ley de Ohm así como de las leyes de Kirchhoff se pudo realizar de manera eficaz los componentes distintos para cada circuito, relacionando así resistencias equivalentes entre circuitos, entre otras. Además, se comprenderá cómo gracias al método de división de la mitad se pueden localizar fallas en un circuito.
+-  Potencia eléctrica y energía son dos conceptos diferentes que están vinculados al consumo de electricidad. 
+-  La energía eléctrica es el resultado de la diferencia de potencial entre dos puntos, que permite establecer una corriente eléctrica entre ambos, esta se mide en vatios hora (Wh).
+-  La potencia eléctrica, es la relación de paso de energía de un flujo por unidad de tiempo, esta se mide en vatios o Watts (W)
 
 
 
