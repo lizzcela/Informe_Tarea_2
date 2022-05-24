@@ -236,7 +236,22 @@ entrada es de 5 W?
 -  Gracias a la implementación de la ley de Ohm así como de las leyes de Kirchhoff se pudo realizar de manera eficaz los componentes distintos para cada circuito, relacionando así resistencias equivalentes entre circuitos, entre otras. Además, se comprenderá cómo gracias al método de división de la mitad se pueden localizar fallas en un circuito.
 -  Potencia eléctrica y energía son dos conceptos diferentes que están vinculados al consumo de electricidad. 
 -  La energía eléctrica es el resultado de la diferencia de potencial entre dos puntos, que permite establecer una corriente eléctrica entre ambos, esta se mide en vatios hora (Wh).
--  La potencia eléctrica, es la relación de paso de energía de un flujo por unidad de tiempo, esta se mide en vatios o Watts (W)
+-  La potencia eléctrica, es la relación de paso de energía de un flujo por unidad de tiempo, esta se mide en vatios o Watts (W).
+
+7. BIBLIOGRAFÍA
+
+- 4° ESO, Eléctrica y Electrónica. (06 de octubre de 2014). Obtenido de https://www3.gobiernodecanarias.org/medusa/ecoblog/fsancac/2014/10/06/energia-y-potencia-electrica/
+-  Blanco, T. (19 de febrero de 2021). Obtenido de https://www.bbva.com/es/sostenibilidad/que-es-y-como-calcular-la-potencia-electrica/
+- Electrónica. (08 de enero de 2021). Obtenido de https://www.redeweb.com/actualidad/resistencia-electrica/
+-  EspacioHonduras. (22 de octubre de 2020). Obtenido de https://www.espaciohonduras.net/voltaje-electrico
+-  IBERDROLA. (11 de mayo de 2021). Obtenido de https://www.iberdrola.es/blog/luz/que-es-voltaje-electrico-como-medirlo
+-  Martín, T., & Serrano, A. (15 de julio de 2018). Electrostática. Obtenido de https://www2.montes.upm.es/dptos/digfa/cfisica/electro/corriente.html
+-  Mecafenix sa (07 de junio de 2020). Obtenido de https://www.ingmecafenix.com/electronica/resistencia-electrica/
+
+
+
+
+
 
 
 
