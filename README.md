@@ -251,6 +251,8 @@ entrada es de 5 W?
 
 5. VÍDEO
 
+https://youtu.be/ApjudVGPXlE
+
 6. CONCLUSIONES 
 
 - Aplicando la Ley de Ohm y reconociendo la relación que existe en las magnitudes de corriente, voltaje y resistencia se tiene que, las fórmulas son los siguientes: voltaje es igual a la resistencia por la intensidad de corriente, la resistencia es igual al voltaje sobre la intensidad de corriente y por último la intensidad de corriente es igual a tensión sobre resistencia del circuito.
